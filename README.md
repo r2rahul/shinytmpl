@@ -1,4 +1,4 @@
-# shinytmpl
+# Exemplar Shiny Template for Data Sharing
 
 A Shiny template for sharing fixed-income loan data across teams in a standardized format.
 
